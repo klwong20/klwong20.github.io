@@ -3,6 +3,7 @@
 
 * {
     font-family: 'Open Sans', sans-serif;
+    margin: auto;
 }
 
 #navbar {
@@ -22,14 +23,4 @@
 #menu-items li {
     margin: auto;
     font-size: x-large;
-}
-
-#box {
-    display: flex;
-    flex-wrap: wrap;
-    align-self: center;
-}
-
-#box figure {
-    max-width: 400px;
 }
