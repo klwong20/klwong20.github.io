@@ -4,3 +4,32 @@
 * {
     font-family: 'Open Sans', sans-serif;
 }
+
+#navbar {
+    width: 100%;
+    background-color: lightgreen;
+    border-radius: 0px:
+}
+
+#menu-items {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-start;
+    overflow: auto;
+    cursor: auto;
+}
+
+#menu-items li {
+    margin: auto;
+    font-size: x-large;
+}
+
+#box {
+    display: flex;
+    flex-wrap: wrap;
+    align-self: center;
+}
+
+#box figure {
+    max-width: 400px;
+}
