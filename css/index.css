@@ -18,21 +18,38 @@ ul {
 
 #navbar {
     width: 100%;
-    background-color: lightgreen;
     border-radius: 0px:
 }
 
-#menu-items {
+#navbar ul {
     display: flex;
     list-style-type: none;
     justify-content: flex-start;
-    overflow: auto;
+    overflow: hidden;
     cursor: auto;
+    background-color: lightgreen;
+}
+  
+#navbar li {
+    float: left;
+}
+  
+#navbar li a {
+    margin: auto;
+    font-size: large;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+#navbar li a:hover:not(.active) {
+    background-color: mediumseagreen;
 }
 
-#menu-items li {
-    margin: auto;
-    font-size: x-large;
+.active {
+    background-color: greenyellow;
 }
 
 .img-max {
