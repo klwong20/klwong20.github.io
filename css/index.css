@@ -20,3 +20,8 @@ ul {
     max-width: 500px;
     width:100%;
 }
+
+.grayback {
+    background-color: rgb(200, 200, 200);
+    text-align: center;
+}
