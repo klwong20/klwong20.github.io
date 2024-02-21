@@ -26,6 +26,16 @@ ul, ol {
     text-align: center;
 }
 
+.restaurant {
+    background: linear-gradient(to right, #f8d3d2, #d8ca97);
+    background: -webkit-linear-gradient(left, #f8d3d2, #d8ca97);
+    background: -moz-linear-gradient(left, #f8d3d2, #d8ca97);
+    background: -o-linear-gradient(left, #f8d3d2, #d8ca97);
+    background: -ms-linear-gradient(left, #f8d3d2, #d8ca97);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 #travel-log {
     text-align: left;
 }
