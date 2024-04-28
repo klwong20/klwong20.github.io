@@ -36,6 +36,14 @@ ul, ol {
     background-size: cover;
 }
 
+.iledefrance {
+    background: #9599bd;
+}
+
+.carousel {
+    max-width: 400px;
+}
+
 #travel-log {
     text-align: left;
 }
