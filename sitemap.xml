@@ -31,8 +31,8 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.klwong.dev/buses/antex.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <loc>https://www.klwong.dev/buses/antex/index.html</loc>
+  <lastmod>2025-07-17</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -122,12 +122,12 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/frontier.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/southwest.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -142,7 +142,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/apac/index.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-07-13</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -214,6 +214,21 @@
   <loc>https://www.klwong.dev/iledefrance/index.html</loc>
   <lastmod>2025-02-02T10:42:12+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/antex/axess.html</loc>
+  <lastmod>2025-07-17</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/antex/byd.html</loc>
+  <lastmod>2025-07-18</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/antex/phoenix.html</loc>
+  <lastmod>2025-07-17</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/art/byd.html</loc>
@@ -302,7 +317,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/lacmta/axess.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-06-29</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -312,7 +327,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/lacmta/compobus.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-06-29</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -322,7 +337,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/lacmta/xcelsior.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-06-29</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -397,7 +412,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/e500.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-29</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -412,7 +427,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/xcelsior.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-29</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -467,22 +482,22 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/american/a320.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/american/737.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/american/777.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/american/787.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -507,7 +522,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/delta/737.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -517,7 +532,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/delta/757.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -532,12 +547,12 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/delta/crj.html</loc>
-  <lastmod>2025-02-16</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/delta/ejet.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -567,7 +582,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/united/787.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -582,12 +597,12 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/ncsa/a220.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/ncsa/a320.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -597,7 +612,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/ncsa/737.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -687,7 +702,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/emea/a380.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -702,7 +717,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/emea/777.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-06-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
