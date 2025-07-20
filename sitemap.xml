@@ -101,6 +101,11 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://www.klwong.dev/trains/lacmta/index.html</loc>
+  <lastmod>2025-07-19</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://www.klwong.dev/planes/alaska/index.html</loc>
   <lastmod>2025-04-15</lastmod>
   <priority>0.64</priority>
@@ -458,6 +463,16 @@
 <url>
   <loc>https://www.klwong.dev/buses/thebushnl/novalfs.html</loc>
   <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/trains/lacmta/hrt.html</loc>
+  <lastmod>2025-07-19</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/trains/lacmta/lrt.html</loc>
+  <lastmod>2025-07-19</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
