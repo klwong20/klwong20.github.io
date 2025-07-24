@@ -41,6 +41,11 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://www.klwong.dev/buses/bigblue/index.html</loc>
+  <lastmod>2025-07-23</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://www.klwong.dev/buses/catami/index.html</loc>
   <lastmod>2025-02-02T10:42:12+00:00</lastmod>
   <priority>0.64</priority>
@@ -242,7 +247,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/antex/byd.html</loc>
-  <lastmod>2025-07-18</lastmod>
+  <lastmod>2025-07-23</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -258,6 +263,16 @@
 <url>
   <loc>https://www.klwong.dev/buses/art/other.html</loc>
   <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/bigblue/gilligbrt.html</loc>
+  <lastmod>2025-07-23</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/bigblue/xcelsior.html</loc>
+  <lastmod>2025-07-23</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -337,7 +352,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/lacmta/axess.html</loc>
-  <lastmod>2025-06-29</lastmod>
+  <lastmod>2025-07-23</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -392,7 +407,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/sdmts/gilliglf.html</loc>
-  <lastmod>2025-03-07</lastmod>
+  <lastmod>2025-07-23</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -432,7 +447,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/e500.html</loc>
-  <lastmod>2025-06-29</lastmod>
+  <lastmod>2025-07-23</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -447,7 +462,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/xcelsior.html</loc>
-  <lastmod>2025-06-29</lastmod>
+  <lastmod>2025-07-23</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -467,7 +482,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/thebushnl/newflyerlf.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-07-23</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
