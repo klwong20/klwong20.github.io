@@ -12,7 +12,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/galleries.html</loc>
-  <lastmod>2025-02-16</lastmod>
+  <lastmod>2025-07-25</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -93,6 +93,11 @@
 <url>
   <loc>https://www.klwong.dev/buses/octa/index.html</loc>
   <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/othersocal/index.html</loc>
+  <lastmod>2025-07-25</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -177,7 +182,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/other/antexranked.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2025-07-17</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -446,6 +451,31 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.klwong.dev/buses/othersocal/axess.html</loc>
+  <lastmod>2025-07-25</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/othersocal/gilligbrt.html</loc>
+  <lastmod>2025-07-25</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/othersocal/nabilfw.html</loc>
+  <lastmod>2025-07-25</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/othersocal/xcelsior.html</loc>
+  <lastmod>2025-07-25</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/othersocal/zx5.html</loc>
+  <lastmod>2025-07-25</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.klwong.dev/buses/rtcsnv/e500.html</loc>
   <lastmod>2025-07-23</lastmod>
   <priority>0.51</priority>
@@ -462,12 +492,12 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/xcelsior.html</loc>
-  <lastmod>2025-07-23</lastmod>
+  <lastmod>2025-07-25</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/streetcar.html</loc>
-  <lastmod>2025-02-16</lastmod>
+  <lastmod>2025-07-25</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
