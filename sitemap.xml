@@ -12,7 +12,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/galleries.html</loc>
-  <lastmod>2025-07-25</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -152,12 +152,12 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/frontier.html</loc>
-  <lastmod>2025-06-30</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.klwong.dev/planes/southwest.html</loc>
-  <lastmod>2025-06-30</lastmod>
+  <loc>https://www.klwong.dev/planes/southwest/index.html</loc>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -577,22 +577,22 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/alaska/ejet.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/allegiant/a320.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/american/a320.html</loc>
-  <lastmod>2025-06-30</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/american/737.html</loc>
-  <lastmod>2025-06-30</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -637,7 +637,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/delta/757.html</loc>
-  <lastmod>2025-06-30</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -666,13 +666,23 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.klwong.dev/planes/southwest/737ng.html</loc>
+  <lastmod>2025-07-30</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/planes/southwest/737max.html</loc>
+  <lastmod>2025-07-30</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.klwong.dev/planes/united/a320.html</loc>
   <lastmod>2025-02-02T10:42:12+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/united/737.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -707,7 +717,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/ncsa/a320.html</loc>
-  <lastmod>2025-07-26</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -717,7 +727,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/ncsa/737.html</loc>
-  <lastmod>2025-06-30</lastmod>
+  <lastmod>2025-07-30</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
