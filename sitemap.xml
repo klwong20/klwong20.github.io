@@ -111,6 +111,10 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://www.klwong.dev/trains/crt/index.html</loc>
+  <lastmod>2026-01-12</lastmod>
+  <priority>0.64</priority>
+<url>
   <loc>https://www.klwong.dev/trains/marta/index.html</loc>
   <lastmod>2025-07-25</lastmod>
   <priority>0.64</priority>
@@ -287,17 +291,17 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/catami/newflyerlf.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2026-02-09</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/catami/xcelsior.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2026-02-09</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/catami/novalfs.html</loc>
-  <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <lastmod>2026-02-09</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -482,7 +486,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/e500.html</loc>
-  <lastmod>2025-09-20</lastmod>
+  <lastmod>2026-01-08</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -497,7 +501,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/xcelsior.html</loc>
-  <lastmod>2025-09-20</lastmod>
+  <lastmod>2026-01-08</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -528,6 +532,16 @@
 <url>
   <loc>https://www.klwong.dev/buses/thebushnl/novalfs.html</loc>
   <lastmod>2025-02-02T10:42:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/trains/crt/hrt.html</loc>
+  <lastmod>2026-01-12</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/trains/crt/monorail.html</loc>
+  <lastmod>2026-01-12</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
