@@ -12,7 +12,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/galleries.html</loc>
-  <lastmod>2025-07-30</lastmod>
+  <lastmod>2026-02-15</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -103,6 +103,11 @@
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/index.html</loc>
   <lastmod>2025-02-16</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/smartmi/index.html</loc>
+  <lastmod>2026-02-15</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -534,6 +539,16 @@
   <loc>https://www.klwong.dev/buses/thebushnl/novalfs.html</loc>
   <lastmod>2025-02-02T10:42:12+00:00</lastmod>
   <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/smartmi/gilligbrt.html</loc>
+  <lastmod>2026-02-15</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/smartmi/xcelsior.html</loc>
+  <lastmod>2026-02-15</lastmod>
+  </priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/trains/crt/hrt.html</loc>
