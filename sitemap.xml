@@ -166,6 +166,11 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://www.klwong.dev/planes/hawaiian/index.html</loc>
+  <lastmod>2026-02-17</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://www.klwong.dev/planes/southwest/index.html</loc>
   <lastmod>2025-07-30</lastmod>
   <priority>0.64</priority>
@@ -182,7 +187,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/ncsa/index.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2026-02-17</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -696,6 +701,21 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.klwong.dev/planes/hawaiian/a321.html</loc>
+  <lastmod>2026-02-17</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/planes/hawaiian/a330.html</loc>
+  <lastmod>2026-02-17</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/planes/hawaiian/787.html</loc>
+  <lastmod>2026-02-17</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.klwong.dev/planes/southwest/737ng.html</loc>
   <lastmod>2025-07-30</lastmod>
   <priority>0.51</priority>
@@ -747,17 +767,12 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/ncsa/a320.html</loc>
-  <lastmod>2025-07-30</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.klwong.dev/planes/ncsa/a330.html</loc>
-  <lastmod>2025-04-15</lastmod>
+  <lastmod>2026-02-17</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/ncsa/737.html</loc>
-  <lastmod>2025-07-30</lastmod>
+  <lastmod>2026-02-17</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -767,11 +782,6 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/planes/ncsa/767.html</loc>
-  <lastmod>2025-04-15</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.klwong.dev/planes/ncsa/787.html</loc>
   <lastmod>2025-04-15</lastmod>
   <priority>0.51</priority>
 </url>

@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Boeing 757 | North, Central, & South American airlines | Kevin Wong's Website</title>
+        <title>Hawaiian Airlines | Kevin Wong's Website</title>
         <link rel="icon" href=" /favicon.ico">
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
@@ -26,9 +26,9 @@
             padding-top: 12px;
         }
     </style>
-    <body style="background-color: lightgray;">
+    <body style="background-color: #a09bc8;">
         <!-- Navbar -->
-        <nav class="navbar navbar-dark navbar-expand-lg" style="background-color: gray;">
+        <nav class="navbar navbar-dark navbar-expand-lg" style="background-color: #413691;">
             <div class="container-fluid">
                 <a class="navbar-brand" href="../../index.html">Kevin Wong's Website</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,15 +40,15 @@
                             <a class="nav-link" href="../../galleries.html">Photo Galleries</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="index.html">North, Central, & South American airlines Home</a>
+                            <a class="nav-link active" aria-current="page">Hawaiian Airlines Home</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Airbus
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="a220.html">A220</a></li>
-                                <li><a class="dropdown-item" href="a320.html">A320</a></li>
+                                <li><a class="dropdown-item" href="a321.html">A321</a></li>
+                                <li><a class="dropdown-item" href="a330.html">A330</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -56,49 +56,53 @@
                                 Boeing
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="737.html">737</a></li>
-                                <li><a class="dropdown-item active" aria-current="true">757</a></li>
-                                <li><a class="dropdown-item" href="767.html">767</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Other
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="ejet.html">Embraer E-Jet</a></li>
-                                <li><a class="dropdown-item" href="erj.html">Embraer ERJ</a></li>
+                                <li><a class="dropdown-item" href="787.html">787</a></li>
                             </ul>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
-        <!-- 757 page content -->
-        <h1>Boeing 757</h1>
-        <div class="container accordion" id="B757">
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="heading752">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse752" aria-expanded="false" aria-controls="collapse752">
-                    Boeing 757-200
-                </button>
-                </h2>
-                <div id="collapse752" class="accordion-collapse collapse" aria-labelledby="heading752" data-bs-parent="#B757">
-                    <div class="accordion-body">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <figure>
-                                        <img src="https://images.klwong.dev/planes/ncsa/752-002.JPG" class="img-fluid" alt="Fly Jamaica 757-200 N524AT">
-                                        <figcaption>Fly Jamaica Airways | N524AT | John F. Kennedy International Airport | Queens, NY, USA | 05/27/2018</figcaption>
-                                    </figure>
-                                </div>
+
+        <!-- Hawaiian page content -->
+        <h1>Hawaiian Airlines</h1>
+        <div class="container">
+            <img src="../../logos/hawaiian.svg" class="img-fluid" width="200px">
+            <p></p>
+            <div class="row">
+                <div class="col-md-6">
+                    <figure>
+                        <a class="link-light link-underline-opacity-0" href="a321.html">
+                            <img src="https://images.klwong.dev/planes/ncsa/A21N-003.jpeg" class="img-fluid">
+                            <div style="background-color: #413691;">
+                                <h4>Airbus A321</h4>
                             </div>
-                        </div>
-                    </div>
+                        </a>
+                    </figure>
+                </div>
+                <div class="col-md-6">
+                    <figure>
+                        <a class="link-light link-underline-opacity-0" href="a330.html">
+                            <img src="https://images.klwong.dev/planes/ncsa/A332-003.jpeg" class="img-fluid">
+                            <div style="background-color: #413691;">
+                                <h4>Airbus A330</h4>
+                            </div>
+                        </a>
+                    </figure>
+                </div>
+                <div class="col-md-6">
+                    <figure>
+                        <a class="link-light link-underline-opacity-0" href="787.html">
+                            <img src="https://images.klwong.dev/planes/ncsa/789-002.jpeg" class="img-fluid">
+                            <div style="background-color: #413691;">
+                                <h4>Boeing 787 Dreamliner</h4>
+                            </div>
+                        </a>
+                    </figure>
                 </div>
             </div>
         </div>
+
         <!-- Bootstrap JS -->
         <script src="js/scripts.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
