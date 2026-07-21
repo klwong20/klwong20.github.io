@@ -142,7 +142,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/trains/muni/index.html</loc>
-  <lastmod>2025-07-19</lastmod>
+  <lastmod>2026-07-20</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -517,7 +517,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/rtcsnv/xcelsior.html</loc>
-  <lastmod>2026-07-06</lastmod>
+  <lastmod>2026-07-20</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -597,7 +597,12 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/trains/muni/metro.html</loc>
-  <lastmod>2025-07-19</lastmod>
+  <lastmod>2026-07-20</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/trains/muni/cablecars.html</loc>
+  <lastmod>2026-07-20</lastmod>
   <priority>0.51</priority>
 </url>
 <url>

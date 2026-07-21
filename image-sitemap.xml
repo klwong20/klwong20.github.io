@@ -6588,6 +6588,9 @@
     <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-122.jpeg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-123.jpeg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.klwong.dev/buses/rtcsnv/streetcar.html</loc>
@@ -7130,6 +7133,42 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/trains/muni/lrv4-010.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/lrv4-011.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.klwong.dev/trains/muni/cablecars.html</loc>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/powell-001.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/powell-002.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/powell-003.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/powell-004.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/powell-005.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/powell-006.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/powell-007.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/powell-008.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/california-001.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/trains/muni/california-002.jpeg</image:loc>
     </image:image>
   </url>
   <url>
