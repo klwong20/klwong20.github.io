@@ -137,7 +137,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/trains/sdmts/index.html</loc>
-  <lastmod>2025-07-20</lastmod>
+  <lastmod>2026-08-15</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -592,7 +592,12 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/trains/sdmts/modern.html</loc>
-  <lastmod>2025-07-20</lastmod>
+  <lastmod>2026-08-15</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/trains/sdmts/vintage.html</loc>
+  <lastmod>2026-08-15</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
