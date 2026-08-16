@@ -1534,10 +1534,13 @@
       <image:loc>https://images.klwong.dev/buses/sdmts/lfcng40-009.jpeg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.klwong.dev/buses/sdmts/c40lfr-003.jpeg</image:loc>
+      <image:loc>https://images.klwong.dev/buses/sdmts/c40lfr-008.jpeg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/sdmts/xn60-015.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/e450-004.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1596,6 +1599,18 @@
     <image:image>
       <image:loc>https://images.klwong.dev/buses/sdmts/lfcng40-008.jpeg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/lfplusev40-001.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/lfplusev40-002.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/lfplusev40-003.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/lfplusev40-004.jpeg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.klwong.dev/buses/sdmts/newflyerlf.html</loc>
@@ -1620,9 +1635,24 @@
     <image:image>
       <image:loc>https://images.klwong.dev/buses/sdmts/c40lfr-001.jpeg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/c40lfr-008.jpeg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.klwong.dev/buses/sdmts/xcelsior.html</loc>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/xe40-001.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/xe40-002.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/xe40-003.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/xe60-001.jpeg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/sdmts/xn60-002.jpeg</image:loc>
     </image:image>
@@ -1685,6 +1715,24 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/sdmts/xn60-011.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.klwong.dev/buses/sdmts/other.html</loc>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/e450-001.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/e450-002.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/e450-003.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/e450-004.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/sdmts/f550-001.jpeg</image:loc>
     </image:image>
   </url>
   <url>

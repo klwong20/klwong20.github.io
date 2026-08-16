@@ -82,7 +82,7 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/sdmts/index.html</loc>
-  <lastmod>2025-03-07</lastmod>
+  <lastmod>2026-08-16</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -437,17 +437,22 @@
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/sdmts/gilliglf.html</loc>
-  <lastmod>2025-07-23</lastmod>
+  <lastmod>2026-08-16</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/sdmts/newflyerlf.html</loc>
-  <lastmod>2025-03-07</lastmod>
+  <lastmod>2026-08-16</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.klwong.dev/buses/sdmts/xcelsior.html</loc>
-  <lastmod>2025-03-07</lastmod>
+  <lastmod>2026-08-16</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.klwong.dev/buses/sdmts/other.html</loc>
+  <lastmod>2026-08-16</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
