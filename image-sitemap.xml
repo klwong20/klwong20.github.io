@@ -3958,6 +3958,12 @@
       <image:loc>https://images.klwong.dev/buses/octa/xn40-029.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/buses/octa/xn40-268.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/octa/xn40-269.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/buses/octa/xn60-041.jpeg</image:loc>
     </image:image>
     <image:image>
@@ -4108,7 +4114,13 @@
       <image:loc>https://images.klwong.dev/buses/othersocal/axessbrt40cng-001.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/ezrideriibrt32cng-002.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/buses/othersocal/brtpluscng40-011.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/lfcng29-001.jpeg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/othersocal/35lfwcng-001.jpeg</image:loc>
@@ -4119,11 +4131,23 @@
     <image:image>
       <image:loc>https://images.klwong.dev/buses/othersocal/zx5plus35-001.jpeg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/e500-001.jpeg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.klwong.dev/buses/othersocal/axess.html</loc>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/othersocal/axessbrt40cng-001.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.klwong.dev/buses/othersocal/ezrider.html</loc>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/ezrideriibrt32cng-001.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/ezrideriibrt32cng-002.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -4160,6 +4184,15 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/othersocal/brtpluscng40-006.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.klwong.dev/buses/othersocal/gilliglf.html</loc>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/lfcng29-001.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/lfcng29-002.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -4210,6 +4243,9 @@
       <image:loc>https://images.klwong.dev/buses/othersocal/xn40-002.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/xn40-012.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/buses/othersocal/xn60-001.jpeg</image:loc>
     </image:image>
   </url>
@@ -4217,6 +4253,15 @@
     <loc>https://www.klwong.dev/buses/othersocal/zx5.html</loc>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/othersocal/zx5plus35-001.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.klwong.dev/buses/othersocal/other.html</loc>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/e500-001.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/othersocal/e500-002.jpeg</image:loc>
     </image:image>
   </url>
   <url>
