@@ -8194,6 +8194,9 @@
       <image:loc>https://images.klwong.dev/planes/delta/A221-004.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/A221-006.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/planes/delta/A223-004.jpeg</image:loc>
     </image:image>
     <image:image>
@@ -8303,6 +8306,12 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/delta/A21N-014.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/A21N-015.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/A21N-016.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -8419,6 +8428,9 @@
       <image:loc>https://images.klwong.dev/planes/delta/738-010.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/738-011.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/planes/delta/739ER-002.JPG</image:loc>
     </image:image>
     <image:image>
@@ -8465,6 +8477,9 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/delta/739ER-016.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/739ER-017.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -8557,6 +8572,9 @@
       <image:loc>https://images.klwong.dev/planes/delta/752-026.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/752-027.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/planes/delta/753-001.jpeg</image:loc>
     </image:image>
     <image:image>
@@ -8564,6 +8582,9 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/delta/753-003.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/753-004.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -8705,6 +8726,15 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/delta/E175-010.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/E175-012.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/E175-013.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/delta/E175-014.jpeg</image:loc>
     </image:image>
   </url>
   <url>
