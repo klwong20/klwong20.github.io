@@ -6321,6 +6321,9 @@
     <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/e500-107.jpeg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/e500-108.jpeg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.klwong.dev/buses/rtcsnv/nabilfw.html</loc>
@@ -6668,6 +6671,12 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-100.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-101.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-102.jpeg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/xhe60-001.jpeg</image:loc>
