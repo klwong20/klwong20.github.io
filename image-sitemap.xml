@@ -7876,16 +7876,25 @@
       <image:loc>https://images.klwong.dev/planes/alaska/738-004.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/planes/alaska/738-005.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/planes/alaska/739ER-001.jpeg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/alaska/739ER-002.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/planes/alaska/739ER-003.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/planes/alaska/7M9-001.jpeg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/alaska/7M9-002.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/alaska/7M9-003.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -7934,6 +7943,12 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/alaska/E175-009.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/alaska/E175-013.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/alaska/E175-014.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -8879,6 +8894,9 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/hawaiian/A332-001.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/hawaiian/A332-002.jpeg</image:loc>
     </image:image>
   </url>
   <url>
