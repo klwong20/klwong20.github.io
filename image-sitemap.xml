@@ -8836,6 +8836,12 @@
       <image:loc>https://images.klwong.dev/planes/frontier/A20N-011.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/planes/frontier/A20N-012.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/frontier/A20N-013.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/planes/frontier/A321-001.jpeg</image:loc>
     </image:image>
     <image:image>
@@ -9273,6 +9279,9 @@
     <image:image>
       <image:loc>https://images.klwong.dev/planes/united/A21N-001.jpeg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/united/A21N-002.jpeg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.klwong.dev/planes/united/737.html</loc>
@@ -9359,6 +9368,9 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/united/7M9-002.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/united/7M9-003.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -9473,6 +9485,9 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/ncsa/A223-010.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/ncsa/A223-011.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -9881,6 +9896,9 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/apac/789-004.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/planes/apac/789-005.jpeg</image:loc>
     </image:image>
   </url>
   <url>
