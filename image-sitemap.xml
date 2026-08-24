@@ -109,7 +109,7 @@
   <url>
     <loc>https://www.klwong.dev/buses/muni/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/buses/../logos/muni.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/muni.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/muni/xt60-010.jpeg</image:loc>
@@ -991,7 +991,7 @@
   <url>
     <loc>https://www.klwong.dev/buses/bigblue/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/buses/../logos/bigblue.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/bigblue.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/bigblue/brtcng40-009.jpeg</image:loc>
@@ -1147,7 +1147,7 @@
   <url>
     <loc>https://www.klwong.dev/buses/lacmta/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/buses/../logos/lacmta.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/lacmta.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/lacmta/k9m-001.jpeg</image:loc>
@@ -1528,7 +1528,7 @@
   <url>
     <loc>https://www.klwong.dev/buses/sdmts/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/buses/../logos/sdmts.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/sdmts.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/sdmts/lfcng40-049.jpeg</image:loc>
@@ -5500,7 +5500,7 @@
   <url>
     <loc>https://www.klwong.dev/buses/marta/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/buses/../logos/marta.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/marta.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/marta/brtplus40-006.jpeg</image:loc>
@@ -5908,7 +5908,7 @@
   <url>
     <loc>https://www.klwong.dev/buses/smartmi/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/buses/../logos/smartmi.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/smartmi.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/smartmi/brt40-006.jpeg</image:loc>
@@ -5959,7 +5959,7 @@
   <url>
     <loc>https://www.klwong.dev/buses/rtcsnv/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/buses/rtcsnv.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/rtcsnv.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/e500-068.jpeg</image:loc>
@@ -6324,6 +6324,12 @@
     <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/e500-108.jpeg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/e500-109.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/e500-110.jpeg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.klwong.dev/buses/rtcsnv/nabilfw.html</loc>
@@ -6679,6 +6685,30 @@
       <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-102.jpeg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-103.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-104.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-105.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-106.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-107.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-108.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-109.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn40-110.jpeg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/xhe60-001.jpeg</image:loc>
     </image:image>
     <image:image>
@@ -6689,6 +6719,18 @@
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/xhe60-002.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xhe60-005.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xhe60-006.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xhe60-007.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xhe60-008.jpeg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-002.jpg</image:loc>
@@ -7086,6 +7128,27 @@
     <image:image>
       <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-123.jpeg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-124.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-125.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-126.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-127.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-128.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-129.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.klwong.dev/buses/rtcsnv/xn60-130.jpeg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.klwong.dev/buses/rtcsnv/streetcar.html</loc>
@@ -7219,7 +7282,7 @@
   <url>
     <loc>https://www.klwong.dev/trains/crt/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/trains/../logos/crt.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/crt.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/trains/crt/as-002.jpeg</image:loc>
@@ -7309,7 +7372,7 @@
   <url>
     <loc>https://www.klwong.dev/trains/marta/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/trains/../logos/marta.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/marta.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/trains/marta/cq310-009.jpeg</image:loc>
@@ -7399,7 +7462,7 @@
   <url>
     <loc>https://www.klwong.dev/trains/marta/streetcar.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/trains/../logos/atlstreetcar.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/atlstreetcar.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/trains/marta/s70-001.jpeg</image:loc>
@@ -7408,7 +7471,7 @@
   <url>
     <loc>https://www.klwong.dev/trains/lacmta/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/trains/../logos/lacmta.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/lacmta.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/trains/lacmta/a650-001.jpeg</image:loc>
@@ -7510,7 +7573,7 @@
   <url>
     <loc>https://www.klwong.dev/trains/sdmts/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/trains/../logos/sdmts.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/sdmts.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/trains/sdmts/s70us-012.jpeg</image:loc>
@@ -7693,7 +7756,7 @@
   <url>
     <loc>https://www.klwong.dev/trains/muni/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/trains/../logos/muni.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/muni.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/trains/muni/lrv4-004.jpeg</image:loc>
@@ -8881,7 +8944,7 @@
   <url>
     <loc>https://www.klwong.dev/planes/hawaiian/index.html</loc>
     <image:image>
-      <image:loc>https://www.klwong.dev/planes/../logos/hawaiian.svg</image:loc>
+      <image:loc>https://www.klwong.dev/logos/hawaiian.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://images.klwong.dev/planes/ncsa/A21N-003.jpeg</image:loc>
